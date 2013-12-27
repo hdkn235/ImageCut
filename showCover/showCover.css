@@ -1,0 +1,17 @@
+﻿.mycover
+{
+    position:absolute;
+    background-color:Gray;
+    opacity:0.5;
+    filter:alpha(opacity=60);
+    display:none;
+}
+.coverholder
+{
+    position:fixed;
+    width:870px;
+    height:520px;
+    background-color:white;
+    z-index:1000;
+    display:none;
+}
